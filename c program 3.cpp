@@ -14,6 +14,6 @@ int main(void){
 			max=a[i];
 		}
 	}
-	printf("the maximum value is %d",max);
+	printf("The greatest value id %d",max);
 	return 0;
 } 
